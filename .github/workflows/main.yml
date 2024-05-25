@@ -1,0 +1,8 @@
+            - nom : Action "Configurer Aliyun CLI" pour les actions GitHub
+  # Vous pouvez épingler le commit exact ou la version.
+  # utilise : aliyun/setup-aliyun-cli-action@09a5f86915bb556e27bf050e9a5e339aeb073df5
+  utilise : aliyun/setup-aliyun-cli-action@v1
+  avec:
+    # La version d'Aliyun CLI
+    version : # facultatif, la valeur par défaut est la plus récente
+          
